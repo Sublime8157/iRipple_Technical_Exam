@@ -64,7 +64,7 @@ onMounted(async () => {
 const orderCards = computed(() => [
   { label: "Amount", value: `₱${totals.value.orders_total}` },
   {
-    label: "Created",
+    label: "Completed",
     value: orders.value.filter((o) => o.status === "C").length,
   },
   {
