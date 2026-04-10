@@ -9,7 +9,7 @@ Make sure you have the following installed:
 
 ### 1. Clone the repository
 ```bash
-git clone <your-repo-url>
+git clone https://github.com/Sublime8157/iRipple_Technical_Exam.git
 ```
 
 ### 2. Go to backend folder
